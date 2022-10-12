@@ -1,7 +1,7 @@
 # Wordpress Page Clone With Tailwindcss
 
-### Live Site:
-[Demo](https://zesty-sherbet-552150.netlify.app)
+### Live Site:[Demo](https://zesty-sherbet-552150.netlify.app)
+
 
 ## Desktop
 ![pc](https://user-images.githubusercontent.com/98126723/195442188-d659d86a-afa3-48e6-930e-2532f586730f.png)
